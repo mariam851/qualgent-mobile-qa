@@ -6,4 +6,3 @@ for orchestrating the Supervisor-Planner-Executor architecture. The framework al
 supports text-based instructions and integration with external tools like adb for 
 interacting with Android apps.
 
-![Test Result](screenshots/Result.png)
